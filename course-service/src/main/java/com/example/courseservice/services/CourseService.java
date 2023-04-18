@@ -1,6 +1,7 @@
-package com.example.universitysystem.services;
+package com.example.courseservice.services;
 
-import com.example.universitysystem.entities.Course;
+
+import com.example.courseservice.entities.Course;
 
 import java.util.List;
 

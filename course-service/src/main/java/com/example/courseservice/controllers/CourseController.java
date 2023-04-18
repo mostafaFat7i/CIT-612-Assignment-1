@@ -1,7 +1,8 @@
-package com.example.universitysystem.controllers;
+package com.example.courseservice.controllers;
 
-import com.example.universitysystem.entities.Course;
-import com.example.universitysystem.services.impl.CourseServiceImpl;
+
+import com.example.courseservice.entities.Course;
+import com.example.courseservice.services.impl.CourseServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

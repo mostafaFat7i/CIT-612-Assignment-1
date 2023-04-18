@@ -1,13 +1,8 @@
-package com.example.universitysystem.entities;
+package com.example.courseservice.entities;
 
-import lombok.Data;
+import lombok.*;
 
 import javax.persistence.*;
-
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.RequiredArgsConstructor;
-import lombok.Setter;
 
 @RequiredArgsConstructor
 @AllArgsConstructor

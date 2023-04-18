@@ -1,8 +1,8 @@
-package com.example.universitysystem.services.impl;
+package com.example.courseservice.services.impl;
 
-import com.example.universitysystem.entities.Course;
-import com.example.universitysystem.repositories.CourseRepository;
-import com.example.universitysystem.services.CourseService;
+import com.example.courseservice.entities.Course;
+import com.example.courseservice.repositories.CourseRepository;
+import com.example.courseservice.services.CourseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
